@@ -1,0 +1,9 @@
+name: MoreObjectives
+version: 1.2
+author: MortalRaven
+main: org.mortalraven.moreobjectives.MoreObjectives
+description: Addon for Quests plugins with new objectives.
+api-version: 1.17
+prefix: MoreObjectives
+depend: [ XLTournaments ]
+softdepend: [ Brewery ]
